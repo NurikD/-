@@ -1,0 +1,46 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+#шапка {
+    text-align: center;
+}
+.постшапка {
+    width:54px ;
+    height:54px;
+}
+.main{
+    background-color: rgb(190, 192, 194);
+}
+.тезис {
+    word-spacing: 55px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(243, 243, 226);
+    border: 5px;    
+}
+
+.ul {
+    display: flex;
+    
+}
+
+.ul>li {
+    margin-right: 100px;
+}
+
+.logo-wrapper {
+    width: 100px;
+}
